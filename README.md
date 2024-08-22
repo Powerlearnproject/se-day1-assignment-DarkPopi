@@ -38,7 +38,7 @@ while Agile: Iterative and incremental approach focused on flexibility, collabor
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-1. Software Developer
+Software Developer
 
 Role: Designs, writes, tests, and maintains code for software applications.
 Responsibilities:
