@@ -8,13 +8,22 @@ Software engineering is the systematic application of engineering principles, me
 Importance in the Technology Industry: Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 Over the decades, software engineering evolved in response to the growing complexity of software systems and the need for structured development methodologies.
 Key Milestones and Innovations: Milestones include the development of programming languages (e.g., Fortran, C), the establishment of software engineering as a discipline in the 1960s, the advent of structured programming in the 1970s, and the rise of agile methodologies in the 2000s.
-Influential Figures in Software Engineering History: Influential figures include pioneers such as Alan Turing, Grace Hopper, Fred Brooks, and others who made significant contributions to the field through their research, inventions, and writings.
+Influential Figures in Software Engineering History: Influential figures include pioneers such as Alan Turing, Grace Hopper, Fred Brooks, and others who made significant contributions to the 
+field through their research, inventions, and writings.
 
 
+List and briefly explain the phases of the Software Development Life Cycle.
+Comment
+Software Development Life Cycle (SDLC) consists of several phases, including:
+Requirements: Gathering and documenting user needs and system requirements.
+Design: Creating high-level and detailed designs of the software architecture and user interface.
+Implementation: Writing code and building the software according to the design specifications.
+Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+Deployment: Releasing the software to users or customers.
+Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 
 
@@ -22,26 +31,11 @@ Influential Figures in Software Engineering History: Influential figures include
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall Methodology:
+Waterfall: Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall.
+while Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 
-Sequential and linear process.
-Rigid; hard to change requirements.
-Heavy documentation.
-Minimal customer involvement until late stages.
-High risk of late problem detection.
-Best for stable, well-defined projects (e.g., government contracts).
-Agile Methodology:
 
-Iterative and incremental process.
-Flexible; changes are easy to implement.
-Focus on working software over documentation.
-Continuous customer involvement and feedback.
-Lower risk due to early problem detection.
-Best for dynamic projects with changing requirements (e.g., software startups).
-Comparison:
 
-Waterfall: Strict sequence, stable projects, less feedback.
-Agile: Iterative cycles, adaptable projects, continuous feedback.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1. Software Developer
